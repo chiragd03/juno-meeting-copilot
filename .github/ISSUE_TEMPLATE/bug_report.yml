@@ -1,0 +1,53 @@
+name: Bug report
+description: Something isn't working right in Juno.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. To help diagnose it quickly, please attach a
+        **debug bundle**: in Juno, open **Settings → Help & feedback → Export
+        debug bundle**. It contains app logs and system info only. It does NOT
+        include your meetings, transcripts, or API keys.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what actually happened?
+      placeholder: When I ended a call, the summary was empty...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Start a call
+        2. ...
+        3. See the error
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Juno version
+      description: See Settings → Help & feedback (also in the debug bundle's system.json).
+      placeholder: "0.1.0"
+    validations:
+      required: false
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - macOS
+        - Windows
+    validations:
+      required: true
+  - type: checkboxes
+    id: bundle
+    attributes:
+      label: Debug bundle
+      options:
+        - label: I've attached a debug bundle (drag the .zip into this issue).
+          required: false
