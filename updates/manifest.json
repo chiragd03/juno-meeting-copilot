@@ -1,6 +1,6 @@
 {
   "latest": "0.2.0",
-  "min_supported": "0.1.0",
+  "min_supported": "0.9.9",
   "notes": "Bug fixes and improvements.",
   "urls": {
     "darwin": "https://github.com/chiragd03/juno-meeting-copilot/releases/latest",
