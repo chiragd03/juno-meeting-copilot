@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial release.",
+  "pub_date": "2026-08-04T17:58:08Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0x2a2RPYjM5UVJEMzBvWHlETFJrUE1nQm9walpGNGZQMmNmYXhRSy81NUpLSk5nY1ZISkxzVXZrbk5rejh3eklRK2IzZE8xRGx6UjBwYnBSYW4xSkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODY1Nzc3CWZpbGU6SnVuby5hcHAudGFyLmd6CmVueWR1WDFGS1BNQ1pMSVZVSWxwbXp0TE8yMEhTRzR3MHFCb2RBYStSNU5NRldoWjBJbGdTUWdlY3JNOXVvRDRoOFRBbFhJK1dOZTAzR2RGYmNuc0R3PT0K",
+      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.1.0/Juno.app.tar.gz"
+    }
+  }
+}
