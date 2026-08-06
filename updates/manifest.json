@@ -1,0 +1,9 @@
+{
+  "latest": "0.7.0",
+  "min_supported": "0.1.0",
+  "notes": "Windows uninstall + install-lock fixes.",
+  "urls": {
+    "darwin": "https://github.com/chiragd03/juno-meeting-copilot/releases/latest",
+    "windows": "https://github.com/chiragd03/juno-meeting-copilot/releases/latest"
+  }
+}

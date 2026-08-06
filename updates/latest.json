@@ -1,0 +1,11 @@
+{
+  "version": "0.7.0",
+  "notes": "Windows uninstall + install-lock fixes.",
+  "pub_date": "2026-08-06T02:35:36Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0JKUGJmdjh3ODVwTklwOWV3dnNNQysxSGttTHlJTUZCeS9haTlabkEyelNSY2RkdUdrUGFweWd3NUp0U09LOEpsc0RRR01hN0I5cWdTZ0hPeTlLOGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTgzNDk3CWZpbGU6SnVub18wLjcuMF94NjQtc2V0dXAuZXhlCjhmNlYyTDJwek10TGllODB3dWN0NG9JVFVoYWFSL0hYZmtxMWlQc2hZWWpBQ1VkQWZUSSt0ODF4S2N3eVVZeWtoNStUbXl3NnZwMTVZdGUvY0NSZkFnPT0K",
+      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.7.0/Juno_0.7.0_x64-setup.exe"
+    }
+  }
+}
