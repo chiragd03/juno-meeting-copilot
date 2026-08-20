@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
-  "notes": "Juno 0.1.0.",
-  "pub_date": "2026-08-06T17:25:27Z",
+  "version": "0.2.0",
+  "notes": "Juno 0.2.0. More reliable Live Assist and clearer status indicators.",
+  "pub_date": "2026-08-20T00:28:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0EvRGpMMzRiUW5UWEhydGc3Q3BwZmdiY21YQUJQQnYrbnAyQkgxVWVUWEQzcmM3TG16dG84RnNqVVBISWhFSlVXZUt2OVo1S1pGMjE3YzZxV0laVndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDM0MTYxCWZpbGU6SnVuby5hcHAudGFyLmd6CjZiVUxvc1ROZUtwekpoYlpsYUlWVGFsb0ZScHF2c1BvcnZvYjluN1hGcUt2cDJjZ1U5aTNCMEpCTVNneStTNzk3bm42bWQ2N0VoQ3RPTVBBV2JVWkRBPT0K",
-      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.1.0/Juno_arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0NoNWRyM1d4dVpLdk90R0ZnSXFQWCtmaFVrWDlnTjRTcXpVY29MWEJJZHVUelcxMEppTWZrWkk5K2ZtdmVWMjVQTk9iTk96RVR2eDFRajRSbFVRcUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTg0MTg3CWZpbGU6SnVuby5hcHAudGFyLmd6CmpIQTJZUU8yMFBzenBCSUt5YTkxbm5RS3JtWUZrbUJRdnlpcklLQXN6bVZxT01CU1Y1b0xvNEp4RzhGRTBBMXQvZUNLeDRiUEdqUCtjNjEvc0Z6N0F3PT0K",
+      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.2.0/Juno_arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0h4TnJCYUl6OHRZTWVJODQvM2pBSU1JdGNQNnhjdVo3SFFjemVQeEdPbFp5T3F5V0M5ckRFYXVVT3pNcktqMWtHM0FOWUg2dWlpcHRmYW8wbUdoVEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDM2MzA3CWZpbGU6SnVuby5hcHAudGFyLmd6CnJ4TndwY2dmNDJ4RTE1bjJJeS9WOTE0bFBPNXE1SGltUlV1RWxveDRBeUp4Z1o3Z1g2V1huekN1TDlFbDlTOTNLKzBKMFhDaHpZSUNYbDllUk9xZEF3PT0K",
-      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.1.0/Juno_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0xhUGMrejFJTG4zdTcwMzVpek0wWmNjcnRGV0ZWWlFSeldYYUY1Y2x1djBYd1NwTHBXYWFIZitnaTl5d1FWemlIZG1CazZ5cFJoZW51VmdLdjQ4aVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTg0NzIwCWZpbGU6SnVuby5hcHAudGFyLmd6ClhOUFJpSC85SkZvbWp3a014S0FuekR4aUJHV2Z0V0hYa3U2ZWtEQnlWdkdqY0Qwd3V6Ym9QSnhLajBSVy85a3p1cGRnaS9tMGxqOXNJQ1lpYUFmaEFnPT0K",
+      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.2.0/Juno_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0JlR2Fza2d1bU9ReStsVnZ6eDNVRjJUOWFGSmt1S3crWUNlcDNQYkpCd0lTMy9Bckw3Y3JQR2l6TDFoZGlrVUdMMjJVWUxFY1FmWDc3VEo5Uk5zVFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDM1NjUyCWZpbGU6SnVub18wLjEuMF94NjQtc2V0dXAuZXhlCnNBZmRLdG5tTUpITG5pczZobGhYTzh1RzhHYy9Wa3ZBZEo0TWVDQkI5bS9VZVc3MUNUVjhKQnBPQnJ0N3lVVkdVTlRqZ0VmeC9UaURucDFWTE1WNkRRPT0K",
-      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.1.0/Juno_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN09DY3J0NmFoY21MSWR1TnZzbUR0STZydU42a1NUZm8yOTlSNU4xemtMVmkrSis1WjVJMFJDZ28wUU1MeDJkYXN0cGhHRzU3bEpQWlg0Q24yZUdLT2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTg1MzI2CWZpbGU6SnVub18wLjIuMF94NjQtc2V0dXAuZXhlCmMxUkROUU1jUkluODhXNis1djhiN2Y1OUF5VVpCSmpPS21haWdzR25iUTVGNDRDVFg2RDYvdWRjOEdnaEhNK0s3R2JVeDhKMVc0eVNHT1JyV2YxR0RBPT0K",
+      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.2.0/Juno_0.2.0_x64-setup.exe"
     }
   }
 }

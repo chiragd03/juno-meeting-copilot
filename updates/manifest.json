@@ -1,7 +1,7 @@
 {
-  "latest": "0.1.0",
+  "latest": "0.2.0",
   "min_supported": "0.1.0",
-  "notes": "Juno 0.1.0.",
+  "notes": "Juno 0.2.0. More reliable Live Assist and clearer status indicators.",
   "urls": {
     "darwin": "https://github.com/chiragd03/juno-meeting-copilot/releases/latest",
     "windows": "https://github.com/chiragd03/juno-meeting-copilot/releases/latest"
