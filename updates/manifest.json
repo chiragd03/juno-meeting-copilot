@@ -1,7 +1,7 @@
 {
-  "latest": "0.2.0",
+  "latest": "0.3.0",
   "min_supported": "0.1.0",
-  "notes": "Juno 0.2.0. More reliable Live Assist and clearer status indicators.",
+  "notes": "Juno 0.3.0. Fixes the microphone staying active after a call ends.",
   "urls": {
     "darwin": "https://github.com/chiragd03/juno-meeting-copilot/releases/latest",
     "windows": "https://github.com/chiragd03/juno-meeting-copilot/releases/latest"

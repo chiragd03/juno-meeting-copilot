@@ -1,19 +1,19 @@
 {
-  "version": "0.2.0",
-  "notes": "Juno 0.2.0. More reliable Live Assist and clearer status indicators.",
-  "pub_date": "2026-08-20T01:05:36Z",
+  "version": "0.3.0",
+  "notes": "Juno 0.3.0. Fixes the microphone staying active after a call ends.",
+  "pub_date": "2026-08-24T20:22:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0VXc1ZEam1qWFZXZ0EyQjE4azl0M2NVR0IycVBET2E3UnVXV21lczdlM0Qzb1hYa01zY1l3aGlMQ1pJWEdybjYxQTB0NTZiRFdtWEI3eTNHR3lFd3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTg2NTAxCWZpbGU6SnVuby5hcHAudGFyLmd6CmUzekIvbHFJdEhJVGwyTnMzelJXZHBHTnVyN0dZeVRPYWNMcS9PR24vK0tYbllwZ1FwbS9LZHdiNHZ5bFd2SE9tYzZaQnowcFRNdFh2Qno3WFY0Y0FnPT0K",
-      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.2.0/Juno_arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN091dUZyUlk2eStmdEkrRS9jTnZCVGkxSmtSVGt0bCs1YWZncm41YUhwZ2RaMDBlVlBUdUpzZ0xDaEptbHhySzJsRFdEQjMwbzZ3Y3RYY2o3c2d1SEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTk4NDU1CWZpbGU6SnVuby5hcHAudGFyLmd6CkROaTEvV2wzbEZPdG1EeW11UG1nL0JydTdHMEtaSHJpWXlTL0tVM2phTHA2YUtLcUI0MWpoRVA4OVRtc1dUK3dFMFJXcUdYdG5SWDd6UjhmM3lSNEFRPT0K",
+      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.3.0/Juno_arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN015dFhmTWdVMzB4cEhoenZVVGZBL2gyUnFybUdRUE43ajNoNytVaEU5Q01QODBTcFpGaEY1aVNjUDZZUlhZOWtVaUxKUDJqZ21SS3NLUGZwTGJuWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTg3MDU3CWZpbGU6SnVuby5hcHAudGFyLmd6Ckx4UlRsYUFDMHpVVFJNelhYNWMyNHo3cmh2d1h3cWIyK3FLY29RUDRjdkRrMlo2SFltU1puYjB0VVNsWVBRK3J5bFcxaFltS2NlQ0pOSDFYcVplNUNBPT0K",
-      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.2.0/Juno_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0ppZW5iWjEreHRGNlNmemUzc3JmZXQwRU1OZ2J4K01KSlIzWVNmeUZzY21NbURrSEdrK0JIYmJRVFRnOEt0WVprQzIrVHJlQlZJN2JTOEY3NFBQUmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjAxMzY5CWZpbGU6SnVuby5hcHAudGFyLmd6ClduTGEwZ0NGQkxWWHYwWERHNDFyMVNrZytpYzhaTFZwK1J4L3ZKa3NhMU94VGlodk5nODlxdlZzL2ZvdzF4OEN1NzhLR2ZvOE9ydURacU5sZ2VreEJBPT0K",
+      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.3.0/Juno_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0dHSjZVeWNrQlZETEdZVkJ4cmlpVGsyVWxYTjMwWlFpZ2x1TmkySDVTL3N4M3JXR3FtWGIyRTJBZkIxMUYxRHNCNzFNZ2ZORDJUbjVCY3ZCMnM4VndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTg3Nzc3CWZpbGU6SnVub18wLjIuMF94NjQtc2V0dXAuZXhlCmh0UXYyZFJrVkhBWk16eG8waHhQc25TdXRiWjJvWHdFSEZ5OXhzMmg1bFpqb2hsMXZQdnNkT3M0ajNzcDBGbzRjLzVPd2o4T3RaMDQvNkJnbjB4b0JRPT0K",
-      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.2.0/Juno_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNlFQTW9pN1dMN0FmN2JhdHBFcklFNk80Q3cvQXB3NjJ3UWMwcStQRy9UQXMyRmEwVGx1a2ZsUnNYSWNXUEpSVDNrSml3RmZUUEo1TTVVenl0aHJ5RGthSWxzNXJ0MWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjAwMTE0CWZpbGU6SnVub18wLjMuMF94NjQtc2V0dXAuZXhlCkV1OU5XTXF2d3hqc21wRFFpbkJHY2dEYXRoTElHa1pMMnd2ZTVvamxhU0x2SlJKeDdzYnA4T3R6bUlyYnE1QXpZY3ArQldzTTMyVnJnRjV1UmNzM0RBPT0K",
+      "url": "https://github.com/chiragd03/juno-meeting-copilot/releases/download/v0.3.0/Juno_0.3.0_x64-setup.exe"
     }
   }
 }
